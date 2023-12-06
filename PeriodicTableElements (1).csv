@@ -55,21 +55,21 @@ id,Period Number,Name,Symbol,Atomic Number,Atomic Weight,Melting Point,Boiling P
 54,5.0,Xenon,Xe,54.0,131.293,-169.22,-162.62,0.005887,Gas,Non-metal,Noble Gas,"Lamps, Stadium Lamps, Lasers",18,5
 55,6.0,Cesium,Cs,55.0,132.905452,83.19,1240.0,1.93,Solid,Metal,Alkali Metals,"Global Navigation, Vacuum Tube",1,6
 56,6.0,Barium,Ba,56.0,137.327,1341.0,3447.0,3.62,Solid,Metal,Alkali Earth Metals,"Platics, Paper, Fireworks",2,6
-57,6.0,Lanthanum,La,57.0,138.90547,1684.0,6267.0,6.15,Solid,Metal,Rare Earth Metals,"Glasses, Telescope, Camera Lenses", , 
-58,6.0,Cerium,Ce,58.0,140.116,1468.0,6195.0,6.77,Solid,Metal,Rare Earth Metals,"Gap Lamps, Lighters", , 
-59,6.0,Praseodymium,Pr,59.0,140.90766,1708.0,6368.0,6.77,Solid,Metal,Rare Earth Metals,"Lighters, Glass, Magnets", , 
-60,6.0,Neodymium,Nd,60.0,144.242,1870.0,5565.0,7.01,Solid,Metal,Rare Earth Metals,"Speakers, Headphones, Lasers", , 
-61,6.0,Promethium,Pm,61.0,145.0,1908.0,5432.0,7.26,Solid,Metal,Rare Earth Metals,Luminous Dials, , 
-62,6.0,Samarium,Sm,62.0,150.36,1965.0,3261.0,7.52,Solid,Metal,Rare Earth Metals,"Speakers, Headphones", , 
-63,6.0,Europium,Eu,63.0,151.964,1512.0,2784.0,5.24,Solid,Metal,Rare Earth Metals,"Television, Lasers", , 
-64,6.0,Gadolinium,Gd,64.0,157.25,2395.0,5923.0,7.9,Solid,Metal,Rare Earth Metals,MRI Machines, , 
-65,6.0,Terbium,Tb,65.0,158.92535,2473.0,5846.0,8.23,Solid,Metal,Rare Earth Metals,"Fluorescent Lamps, Computer Disks, Television", , 
-66,6.0,Dysprosium,Dy,66.0,162.5,2574.0,4653.0,8.55,Solid,Metal,Rare Earth Metals,Computer Disks, , 
-67,6.0,Holmium,Ho,67.0,164.93033,2685.0,4892.0,8.8,Solid,Metal,Rare Earth Metals,"Laser Surgery, Computer Disks", , 
-68,6.0,Erbium,Er,68.0,167.259,2784.0,5194.0,9.07,Solid,Metal,Rare Earth Metals,"Fiber Optic Cables, Glass, Sunglasses, Laser Surgery", , 
-69,6.0,Thulium,Tm,69.0,168.93422,2813.0,3542.0,9.32,Solid,Metal,Rare Earth Metals,"Laser Surgery, Lasers", , 
-70,6.0,Ytterbium,Yb,70.0,173.045,1506.0,2185.0,7.9,Solid,Metal,Rare Earth Metals,"Stainless Steel, Lasers", , 
-71,6.0,Lutetium,Lu,71.0,174.9668,3025.0,6156.0,9.84,Solid,Metal,Rare Earth Metals,Photodynamic Medicine, , 
+57,6.0,Lanthanum,La,57.0,138.90547,1684.0,6267.0,6.15,Solid,Metal,Rare Earth Metals,"Glasses, Telescope, Camera Lenses",0,0 
+58,6.0,Cerium,Ce,58.0,140.116,1468.0,6195.0,6.77,Solid,Metal,Rare Earth Metals,"Gap Lamps, Lighters",0,0 
+59,6.0,Praseodymium,Pr,59.0,140.90766,1708.0,6368.0,6.77,Solid,Metal,Rare Earth Metals,"Lighters, Glass, Magnets",0,0 
+60,6.0,Neodymium,Nd,60.0,144.242,1870.0,5565.0,7.01,Solid,Metal,Rare Earth Metals,"Speakers, Headphones, Lasers",0,0 
+61,6.0,Promethium,Pm,61.0,145.0,1908.0,5432.0,7.26,Solid,Metal,Rare Earth Metals,Luminous Dials,0,0 
+62,6.0,Samarium,Sm,62.0,150.36,1965.0,3261.0,7.52,Solid,Metal,Rare Earth Metals,"Speakers, Headphones",0,0 
+63,6.0,Europium,Eu,63.0,151.964,1512.0,2784.0,5.24,Solid,Metal,Rare Earth Metals,"Television, Lasers",0,0 
+64,6.0,Gadolinium,Gd,64.0,157.25,2395.0,5923.0,7.9,Solid,Metal,Rare Earth Metals,MRI Machines,0,0 
+65,6.0,Terbium,Tb,65.0,158.92535,2473.0,5846.0,8.23,Solid,Metal,Rare Earth Metals,"Fluorescent Lamps, Computer Disks, Television",0,0 
+66,6.0,Dysprosium,Dy,66.0,162.5,2574.0,4653.0,8.55,Solid,Metal,Rare Earth Metals,Computer Disks,0,0 
+67,6.0,Holmium,Ho,67.0,164.93033,2685.0,4892.0,8.8,Solid,Metal,Rare Earth Metals,"Laser Surgery, Computer Disks",0,0 
+68,6.0,Erbium,Er,68.0,167.259,2784.0,5194.0,9.07,Solid,Metal,Rare Earth Metals,"Fiber Optic Cables, Glass, Sunglasses, Laser Surgery",0,0 
+69,6.0,Thulium,Tm,69.0,168.93422,2813.0,3542.0,9.32,Solid,Metal,Rare Earth Metals,"Laser Surgery, Lasers",0,0 
+70,6.0,Ytterbium,Yb,70.0,173.045,1506.0,2185.0,7.9,Solid,Metal,Rare Earth Metals,"Stainless Steel, Lasers",0,0 
+71,6.0,Lutetium,Lu,71.0,174.9668,3025.0,6156.0,9.84,Solid,Metal,Rare Earth Metals,Photodynamic Medicine,0,0 
 72,6.0,Hafnium,Hf,72.0,178.49,4051.0,8317.0,13.3,Solid,Metal,Transition Metals,Nuclear Submarines,4,6
 73,6.0,Tantalum,Ta,73.0,180.94788,5463.0,9856.0,16.4,Solid,Metal,Transition Metals,"Mobile Phones, Artifical Joints, Labware",5,6
 74,6.0,Tungsten,W,74.0,183.84,6192.0,10031.0,19.3,Solid,Metal,Transition Metals,Scissors,6,6
@@ -87,21 +87,21 @@ id,Period Number,Name,Symbol,Atomic Number,Atomic Weight,Melting Point,Boiling P
 86,6.0,Radon,Rn,86.0,222.0,-96.0,-79.1,0.00973,Gas,Non-metal,Noble Gas,Cancer Medicine,18,6
 87,7.0,Francium,Fr,87.0,223.0,81.0,Unknown,Unknown,Solid,Metal,Alkali Metals,Laser Atom Traps,1,7
 88,7.0,Radium,Ra,88.0,226.0,1292.0,2084.0,5.0,Solid,Metal,Alkali Earth Metals,Luminous Watches,2,7
-89,7.0,Actinium,Ac,89.0,227.0,1924.0,5788.0,10.07,Solid,Metal,Actinide Metals,Cancer Medicine, ,
-90,7.0,Thorium,Th,90.0,232.0377,3182.0,8650.0,11.72,Solid,Metal,Actinide Metals,"Gas Lamps, Nuclear Fuel", , 
-91,7.0,Protactinium,Pa,91.0,231.03588,2862.0,Unknown,15.37,Solid,Metal,Actinide Metals,Radioactive Waste, , 
-92,7.0,Uranium,U,92.0,238.02891,2075.0,7468.0,18.95,Solid,Metal,Actinide Metals,"Nuclear Fuel, Nuclear Weapons", , 
-93,7.0,Neptunium,Np,93.0,237.0,1191.0,7065.0,20.25,Solid,Metal,Actinide Metals,Radioactive Waste, , 
-94,7.0,Plutonium,Pu,94.0,244.0,1184.0,5842.0,19.84,Solid,Metal,Actinide Metals,Nuclear Weapons, , 
-95,7.0,Americium,Am,95.0,243.0,2149.0,3652.0,13.79,Solid,Metal,Actinide Metals,Smoke Detectors, , 
-96,7.0,Curium,Cm,96.0,247.0,2453.0,5600.0,13.51,Solid,Metal,Actinide Metals,Scientific Instruments, , 
-97,7.0,Berkelium,Bk,97.0,247.0,1922.0,Unknown,14.0,Solid,Metal,Actinide Metals,Radioactive Waste, , 
-98,7.0,Californium,Cf,98.0,251.0,1652.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Scientific Instruments, , 
-99,7.0,Einsteinium,Es,99.0,252.0,1580.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature, , 
-100,7.0,Fermium,Fm,100.0,257.0,2781.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature, , 
-101,7.0,Mendelevium,Md,101.0,258.0,1521.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature, , 
-102,7.0,Nobelium,No,102.0,259.0,1520.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature, , 
-103,7.0,Lawrencium,Lr,103.0,262.0,2961.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature, , 
+89,7.0,Actinium,Ac,89.0,227.0,1924.0,5788.0,10.07,Solid,Metal,Actinide Metals,Cancer Medicine,0,0
+90,7.0,Thorium,Th,90.0,232.0377,3182.0,8650.0,11.72,Solid,Metal,Actinide Metals,"Gas Lamps, Nuclear Fuel",0,0 
+91,7.0,Protactinium,Pa,91.0,231.03588,2862.0,Unknown,15.37,Solid,Metal,Actinide Metals,Radioactive Waste,0,0 
+92,7.0,Uranium,U,92.0,238.02891,2075.0,7468.0,18.95,Solid,Metal,Actinide Metals,"Nuclear Fuel, Nuclear Weapons",0,0 
+93,7.0,Neptunium,Np,93.0,237.0,1191.0,7065.0,20.25,Solid,Metal,Actinide Metals,Radioactive Waste,0,0 
+94,7.0,Plutonium,Pu,94.0,244.0,1184.0,5842.0,19.84,Solid,Metal,Actinide Metals,Nuclear Weapons,0,0 
+95,7.0,Americium,Am,95.0,243.0,2149.0,3652.0,13.79,Solid,Metal,Actinide Metals,Smoke Detectors,0,0 
+96,7.0,Curium,Cm,96.0,247.0,2453.0,5600.0,13.51,Solid,Metal,Actinide Metals,Scientific Instruments,0,0 
+97,7.0,Berkelium,Bk,97.0,247.0,1922.0,Unknown,14.0,Solid,Metal,Actinide Metals,Radioactive Waste,0,0 
+98,7.0,Californium,Cf,98.0,251.0,1652.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Scientific Instruments,0,0 
+99,7.0,Einsteinium,Es,99.0,252.0,1580.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature,0,0 
+100,7.0,Fermium,Fm,100.0,257.0,2781.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature,0,0 
+101,7.0,Mendelevium,Md,101.0,258.0,1521.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature,0,0 
+102,7.0,Nobelium,No,102.0,259.0,1520.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature,0,0 
+103,7.0,Lawrencium,Lr,103.0,262.0,2961.0,Unknown,Unknown,Solid,Metal,Actinide Metals,Radioactive and Never Found in Nature,0,0 
 104,7.0,Rutherfordium,Rf,104.0,263.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature,4,7
 105,7.0,Dubnium,Db,105.0,268.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature,5, 7
 106,7.0,Seaborgium,Sg,106.0,271.0,Unknown,Unknown,Unknown,Solid,Metal,Superheavy Elements,Radioactive and Never Found in Nature,6,7
